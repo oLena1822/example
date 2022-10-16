@@ -6,7 +6,7 @@ public class Main {
         String lancuch, imie;
 
         lancuch="Witaj";
-        imie="Olena";
+        imie="RENO";
 
 	    System.out.println(String.format("%s posiadaczu imienia: %s",lancuch, imie));
 
